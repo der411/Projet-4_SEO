@@ -10,6 +10,11 @@ C'est un projet visant à améliorer les performances, le référencement, et l'
 # Aperçu 🎨
 ![Capture d’écran (642)](https://live.staticflickr.com/65535/53900272831_174cd6a41f_n.jpg)
 
+## Téléchargement
+
+- [Télécharger le rapport complet](https://github.com/der411/Projet-4_SEO/blob/main/Vaitilingom_Vincent_2_rapport_intervention_052024.pdf)
+
+
 # Installation 🔧
 
 1. Clonez le dépôt :
